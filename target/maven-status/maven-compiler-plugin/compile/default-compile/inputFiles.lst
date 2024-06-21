@@ -1,0 +1,13 @@
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/servlet/EditTranslationsServlet.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/servlet/AdminServlet.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/model/Word.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/model/Language.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/com/kpi/ia32_savenko_opkr/resources/JakartaEE10Resource.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/service/DataStorage.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/servlet/EditLanguagesServlet.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/servlet/LoginServlet.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/servlet/TranslateServlet.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/com/kpi/ia32_savenko_opkr/JakartaRestConfiguration.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/servlet/EditWordsServlet.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/model/Translation.java
+/home/ian/NetBeansProjects/IA32_Savenko_OPKR/src/main/java/service/ApplicationLifecycleListener.java

@@ -1,0 +1,13 @@
+servlet/EditTranslationsServlet.class
+servlet/EditLanguagesServlet.class
+model/Word.class
+model/Language.class
+servlet/LoginServlet.class
+service/DataStorage.class
+servlet/AdminServlet.class
+servlet/EditWordsServlet.class
+model/Translation.class
+service/ApplicationLifecycleListener.class
+com/kpi/ia32_savenko_opkr/JakartaRestConfiguration.class
+servlet/TranslateServlet.class
+com/kpi/ia32_savenko_opkr/resources/JakartaEE10Resource.class
